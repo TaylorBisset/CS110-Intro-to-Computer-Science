@@ -1,3 +1,6 @@
 [submodule "CS110-HelloWorld"]
 	path = CS110-HelloWorld
 	url = git@github.com:TaylorBisset/CS110-HelloWorld.git
+[submodule "CS110-ioLab"]
+	path = CS110-ioLab
+	url = git@github.com:TaylorBisset/CS110-ioLab.git
