@@ -16,3 +16,6 @@
 [submodule "CS110-SurfAreaAndVolumeSphere"]
 	path = CS110-SurfAreaAndVolumeSphere
 	url = git@github.com:TaylorBisset/CS110-SurfAreaAndVolumeSphere.git
+[submodule "CS110-DistanceRateAndTime"]
+	path = CS110-DistanceRateAndTime
+	url = git@github.com:TaylorBisset/CS110-DistanceRateAndTime.git
