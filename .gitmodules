@@ -7,3 +7,6 @@
 [submodule "CS110-SquareRoot"]
 	path = CS110-SquareRoot
 	url = git@github.com:TaylorBisset/CS110-SquareRoot.git
+[submodule "CS110-GetLine"]
+	path = CS110-GetLine
+	url = git@github.com:TaylorBisset/CS110-GetLine.git
