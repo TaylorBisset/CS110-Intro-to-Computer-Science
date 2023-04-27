@@ -10,3 +10,6 @@
 [submodule "CS110-GetLine"]
 	path = CS110-GetLine
 	url = git@github.com:TaylorBisset/CS110-GetLine.git
+[submodule "CS110-DebugExample"]
+	path = CS110-DebugExample
+	url = git@github.com:TaylorBisset/CS110-DebugExample.git
