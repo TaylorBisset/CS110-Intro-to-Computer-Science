@@ -13,3 +13,6 @@
 [submodule "CS110-DebugExample"]
 	path = CS110-DebugExample
 	url = git@github.com:TaylorBisset/CS110-DebugExample.git
+[submodule "CS110-SurfAreaAndVolumeSphere"]
+	path = CS110-SurfAreaAndVolumeSphere
+	url = git@github.com:TaylorBisset/CS110-SurfAreaAndVolumeSphere.git
